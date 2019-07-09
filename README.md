@@ -2,7 +2,7 @@
 
 This repository content an End-of-Degree Project of an IT Engineering. The goal of this project is to help new students to learn about a networks lab with VR technology.
 
-##Assets
+## Assets
 Some of the assets (.fbx) are not in this repository due to the license they have. 
 They have been obtain from:
 -https://www.turbosquid.com/
